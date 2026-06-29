@@ -1,40 +1,34 @@
 <div align="center">
 
 <!-- HERO BANNER — & replaced with %26 to avoid XML entity error -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=DHIVAKAR%20S&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=App%20Developer%20%E2%80%A2%20IoT%20Builder%20%E2%80%A2%20AI%20%26%20Data%20Science%20Explorer&amp;descAlignY=62&amp;descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&amp;customColorList=6,11,20&amp;height=200&section=header&text=DHIVAKAR%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <!-- VIEW COUNT + FOLLOWERS + STARS ROW -->
 <img src="https://komarev.com/ghpvc/?username=dhivakar-ai&amp;color=70a5fd&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dhivakar-ai?label=FOLLOWERS&amp;style=for-the-badge&amp;color=bf91f3&amp;labelColor=0d1117&amp;logo=github&amp;logoColor=white" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TOTAL%20STARS-%E2%AD%90-ffdd57?style=for-the-badge&amp;labelColor=0d1117" alt="Stars"/>
-
 </div>
+
+
 
 ---
 
-<!-- TYPING HEADER -->
+ <!-- TYPING HEADER -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Hey+there%2C+I%27m+Dhivakar+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%40+MKCE;Building+Apps+%7C+Tinkering+with+IoT+%7C+Training+ML;Turning+data+into+decisions+%F0%9F%9A%80;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%84" alt="Typing SVG"/>
 </div>
+<br clear="right"/>
 
----
 
 <!-- ABOUT ME — prose bio with animated GIF -->
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
 
 ### 👋 About Me
 
-🎓 &nbsp;**B.Tech in AI & Data Science** @ M.Kumarasamy College of Engineering, Karur *(2023–2027)*
-📍 &nbsp;Based in **Tirupattur, Tamil Nadu, India**
-💡 &nbsp;Passionate about **Machine Learning, Mobile Apps, IoT & Data Analytics**
-🌱 &nbsp;Currently levelling up in **TensorFlow, Power BI & Full-Stack Web Dev**
-🔌 &nbsp;Love bridging **hardware and software** through IoT projects with Arduino
-📊 &nbsp;Interned at **Alfido Tech** (Data Analytics) & **Skypark Itech** (Web Dev)
-🎨 &nbsp;UI/UX enthusiast — I care about design as much as I care about logic
-⚡ &nbsp;Fun fact: *I debug circuits AND code — because why choose one?*
-📬 &nbsp;Reach me at **dhivakarsenthil2005@gmail.com**
+Aspiring AI & Data Science student with strong analytical and problem-solving skills. Passionate about learning new technologies, building impactful solutions, and Eager to apply technical knowledge to solve real-world problems and contribute to organizational growth.
 
 <br clear="right"/>
 
@@ -45,71 +39,31 @@
 
 ### 🛠️ Tech Arsenal
 
-**💻 Languages**
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**💻 Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**⚙️ Frameworks & Platforms**
+<div align="right">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**⚙️ Frameworks & Platforms** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**🎨 Design & Analytics**
+<div align="left">
 
-![Figma](https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**🎨 Design & Analytics** ![Figma](https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**🔧 Tools & IDEs**
+<div align="right">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**🔧 Tools & IDEs** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT%20Systems-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-</div>
-
----
-
-<!-- GITHUB SCORE CARD -->
-<div align="center">
-
-### 🏆 GitHub Score — *Updated Daily*
-
-> **📊 Formula:** `(Commits × 0.5) + (Stars × 5) + (Forks × 3) + (PRs × 4) + (Issues × 2) + (Followers × 2)`
-
-| Metric | Weight | Your Count* | Score |
-|--------|--------|-------------|-------|
-| 🔨 Commits | × 0.5 | — | — |
-| ⭐ Stars Earned | × 5 | — | — |
-| 🍴 Forks | × 3 | — | — |
-| 🔀 Pull Requests | × 4 | — | — |
-| 🐛 Issues Opened | × 2 | — | — |
-| 👥 Followers | × 2 | — | — |
-| **🏆 TOTAL SCORE** | | | **Calculating...** |
-
-> *Counts update as your GitHub activity grows. Star repos to level up faster! 🚀*
-
-**🎮 Current Level:**
-```
-Level 1 → Rising Star
-[▓░░░░░░░░░]  ~10% Complete
-"Every great developer was once a beginner." 🌱
-Keep committing. Keep building. The leaderboard awaits.
-```
-
-**🗺️ Level Milestones:**
-```
-Level 1  [▓░░░░░░░░░]   0   – 100   →  🌱 Rising Star
-Level 2  [▓▓▓░░░░░░░]   100 – 300   →  ⚡ Code Spark
-Level 3  [▓▓▓▓▓░░░░░]   300 – 600   →  🔥 Builder
-Level 4  [▓▓▓▓▓▓▓░░░]   600 – 1000  →  💎 Dev Gem
-Level 5  [▓▓▓▓▓▓▓▓▓▓]   1000+       →  🚀 Open Source Hero
-```
 
 </div>
 
@@ -126,34 +80,12 @@ Level 5  [▓▓▓▓▓▓▓▓▓▓]   1000+       →  🚀 Open Source He
 
 ---
 
-<!-- TOP LANGUAGES -->
-<div align="center">
-
-### 🌐 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakar-ai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
-
-</div>
-
----
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- TROPHY WALL -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhivakar-ai&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
 
 </div>
 
@@ -225,21 +157,6 @@ Level 5  [▓▓▓▓▓▓▓▓▓▓]   1000+       →  🚀 Open Source He
 | 🔌 | **IoT System Builder** | Designed hardware-software integrated systems with Arduino |
 | 🎨 | **UI/UX Designer** | High-fidelity designs for mobile and web apps using Photoshop |
 | 💡 | **Cross-Domain Developer** | Builds across Android, Web, IoT, and Data Science simultaneously |
-
-</div>
-
----
-
-<!-- SNAKE AND LADDER GIF -->
-<div align="center">
-
-### 🎲 The Dev Journey — Just Like Snake and Ladder!
-
-> *Sometimes you climb 🚀 Sometimes you slide 😅 But you never stop playing!*
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="320" alt="Snake and Ladder Game GIF"/>
-
-> *Bugs = Snakes 🐍 &nbsp;|&nbsp; Solved PRs = Ladders 🪜 &nbsp;|&nbsp; Keep rolling! 🎲*
 
 </div>
 
