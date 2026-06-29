@@ -162,15 +162,14 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ---
 
-<!-- EDUCATION -->
-### 🎓 Education
+## 🎓 Education
 
 <div align="center">
 
-| 📜 Degree | 🏫 Institution | 📅 Year | 📈 Score |
-|---|---|---|---|
-| B.Tech — AI and Data Science | M.Kumarasamy College of Engineering, Karur | 2023 – 2027 | CGPA **7.44** |
-| Secondary School (12th) | Green Garden Matric Hr. Sec. School, Erode | 2021 – 2023 | **74.6%** |
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📈 Score |
+|:---------|:--------------|:-------:|:-------:|
+| B.Tech — AI & Data Science | M.Kumarasamy College of Engineering, Karur | 2023–2027 | **CGPA 7.44** |
+| HSC — Secondary Education | Green Garden Matric Hr. Sec. School, Erode | 2021–2023 | **74.6 %** |
 
 </div>
 
