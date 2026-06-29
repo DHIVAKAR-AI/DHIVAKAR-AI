@@ -1,5 +1,300 @@
 <div align="center">
 
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DHIVAKAR%20S&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=App%20Developer%20%E2%80%A2%20IoT%20Builder%20%E2%80%A2%20AI%20%26%20Data%20Science%20Explorer&descAlignY=62&descSize=18" width="100%"/>
+
+<!-- PROFILE VIEWS BADGE -->
+<img src="https://komarev.com/ghpvc/?username=dhivakar-ai&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dhivakar-ai?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-38bdae?style=flat-square&labelColor=0d1117" alt="Focus"/>
+
+</div>
+
+---
+
+<!-- TYPING HEADER -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Dhivakar+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%40+MKCE;Building+Apps+%7C+Tinkering+with+IoT+%7C+Training+ML+Models;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
+
+---
+
+<!-- ABOUT ME CODE BLOCK -->
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+# dhivakar.py  ✨
+
+class Dhivakar:
+    def __init__(self):
+        self.name         = "Dhivakar S"
+        self.location     = "Tirupattur, Tamil Nadu 🇮🇳"
+        self.degree       = "B.Tech – AI & Data Science (2023-2027)"
+        self.college      = "M.Kumarasamy College of Engineering, Karur"
+        self.cgpa         = 7.44
+
+        self.stack = [
+            "Python 🐍", "Java ☕", "SQL 🗄️",
+            "HTML5 🌐", "Android Studio 📱",
+            "TensorFlow 🤖", "Arduino / IoT 🔌"
+        ]
+
+        self.currently_learning = [
+            "Machine Learning & Deep Learning 🧠",
+            "Advanced Data Analytics & Power BI 📊",
+            "Full-Stack Web Development 🌍",
+            "IoT Systems Integration 🔧"
+        ]
+
+        self.fun_fact  = "I debug hardware AND software — IoT life 🤷"
+        self.linkedin  = "linkedin.com/in/dhivakar-ai"
+        self.email     = "dhivakarsenthil2005@gmail.com"
+
+    def motto(self) -> str:
+        return "Build → Break → Learn → Repeat 🔄"
+
+me = Dhivakar()
+print(me.motto())
+```
+
+<br clear="right"/>
+
+---
+
+<!-- TECH BADGES -->
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Libraries**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Design & Analytics**
+
+![Figma](https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Tools & IDEs**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20Systems-0078D7?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+<!-- GITHUB STATS + TOP LANGUAGES -->
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<a href="https://github.com/dhivakar-ai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhivakar-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/dhivakar-ai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakar-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+<!-- STREAK STATS -->
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=dhivakar-ai&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- TROPHY WALL -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhivakar-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- WORK EXPERIENCE -->
+### 💼 Experience
+
+<details>
+<summary>🏢 <b>Alfido Tech</b> — Data Analytics Intern &nbsp;|&nbsp; Apr 2025 – May 2025</summary>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 📊 Analyzed real-world datasets to derive actionable business insights using Python and SQL
+- 📉 Built interactive dashboards with Power BI for data-driven decision making
+- 🔍 Performed data cleaning, transformation, and exploratory data analysis (EDA) on multiple datasets
+- 🚀 Delivered analytical reports to stakeholders, improving data visibility across projects
+
+</details>
+
+<details>
+<summary>🌐 <b>Skypark Itech</b> — Web Development Intern &nbsp;|&nbsp; July 2025 &nbsp;|&nbsp; Coimbatore</summary>
+
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 💻 Developed responsive web pages and UI components for client projects
+- 🎨 Collaborated on UI/UX improvements, applying design principles for better usability
+- 🔧 Worked with the development team to implement front-end features and fixes
+- 🌍 Contributed to a live production website, gaining hands-on industry experience
+
+</details>
+
+---
+
+<!-- FEATURED PROJECTS -->
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
+|---|---|---|
+| 📱 **Android Mobile App** | Android Studio · Java · XML | Built a full-featured mobile application with intuitive UI/UX design; focused on usability and smooth user flows |
+| 🌐 **Web Application** | HTML5 · CSS3 · JavaScript | Developed responsive web apps with clean interfaces; applied modern front-end practices |
+| 🔌 **IoT Smart System** | Arduino · Python · Sensors | Designed and wired IoT hardware, connected physical devices to software dashboards for real-time monitoring |
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS -->
+### 🎯 Achievements & Highlights
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| 🎓 | **B.Tech in AI & Data Science** | CGPA: **7.44** — M.Kumarasamy College of Engineering |
+| 📊 | **Data Analytics Internship** | Completed at Alfido Tech — May 2025 |
+| 🌐 | **Web Development Internship** | Completed at Skypark Itech, Coimbatore — July 2025 |
+| 🐍 | **Python & ML Enthusiast** | Trained ML models with TensorFlow; hands-on with real-world datasets |
+| 🔌 | **IoT Builder** | Designed end-to-end IoT systems with Arduino connecting hardware to software |
+| 🎨 | **UI/UX Designer** | Created high-fidelity designs with Photoshop for mobile & web apps |
+| 💡 | **Full-Stack Curious** | Exploring Android, Web, IoT, and Data — building across the stack |
+
+</div>
+
+---
+
+<!-- EDUCATION -->
+### 🎓 Education
+
+<div align="center">
+
+| 📜 Degree | 🏫 Institution | 📅 Year | 📈 Score |
+|---|---|---|---|
+| B.Tech — AI & Data Science | M.Kumarasamy College of Engineering, Karur | 2023 – 2027 | CGPA: **7.44** |
+| Secondary School (12th) | Green Garden Matric Hr. Sec. School, Erode | 2021 – 2023 | **74.6%** |
+
+</div>
+
+---
+
+<!-- CURRENTLY LEARNING -->
+### 🌱 Currently Levelling Up
+
+```
+🧠 Machine Learning      →  Supervised/Unsupervised, Neural Networks, TensorFlow
+📊 Data Analytics        →  Power BI Dashboards, EDA, Statistical Modelling
+🌍 Full-Stack Web Dev    →  JavaScript, Responsive Design, REST APIs
+🔌 IoT Engineering       →  Arduino, Sensor Integration, Cloud Connectivity
+📱 Mobile Development    →  Advanced Android Studio, App Architecture
+🎨 UI/UX Design          →  Figma Prototyping, Design Systems, Accessibility
+```
+
+---
+
+<!-- MINI SNAKE GAME -->
+### 🐍 Play Snake — Right Here!
+
+> _A little Python-spirit game for you. Click to start!_
+
+<div align="center">
+
+<!--
+  EMBED: Hosted snake game via raw HTML in a GitHub-supported iframe-free way.
+  GitHub doesn't render JS in markdown, so we link to a playable hosted version.
+  For a local README viewer (e.g. VS Code), the HTML below works.
+-->
+
+[![Play Snake 🐍](https://img.shields.io/badge/🐍%20Play%20Snake-Click%20to%20Play-38bdae?style=for-the-badge&labelColor=0d1117)](https://playsnake.org)
+
+> 💡 *Can't run scripts in GitHub markdown — click the badge above to play, or check out the interactive version on my profile page!*
+
+</div>
+
+---
+
+<!-- CONNECT -->
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhivakar%20AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-ai)
+[![Email](https://img.shields.io/badge/Email-dhivakarsenthil2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivakarsenthil2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_dhivakar__s_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dhivakar_s_/)
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%"/>
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
+
+*⭐ From [Dhivakar S](https://github.com/dhivakar-ai) — Built with 💙 & lots of ☕*
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:70a5fd&height=200&section=header&text=DHIVAKAR%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=🤖%20AI%20%26%20Data%20Science%20·%20App%20Builder%20·%20IoT%20Enthusiast&descAlignY=66&descSize=17&stroke=70a5fd&strokeWidth=1.5" width="100%"/>
 
 </div>
