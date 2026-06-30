@@ -39,33 +39,33 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ### 🛠️ Tech Arsenal
 
-<div align="left">
+<p align="left">
 
-**💻 Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-<div align="right">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-**⚙️ Frameworks & Platforms** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<div align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-**🎨 Design & Analytics** ![Figma](https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
 
-<div align="right">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
-**🔧 Tools & IDEs** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT%20Systems-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
-</div>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=internetofthings&logoColor=white" />
+
+</p>
 
 ---
 
@@ -144,19 +144,18 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 ---
 
 <!-- ACHIEVEMENTS -->
-### 🎯 Achievements
+### 🎯 Achievements 
 
 <div align="center">
 
 | 🏅 | Achievement | Details |
-|---|---|---|
-| 🎓 | **B.Tech — AI and Data Science** | CGPA **7.44** at M.Kumarasamy College of Engineering |
-| 📊 | **Data Analytics Intern** | Alfido Tech — real-world dataset analysis and dashboarding |
-| 🌐 | **Web Development Intern** | Skypark Itech, Coimbatore — production-level web development |
-| 🐍 | **ML Model Training** | Built and trained ML models using TensorFlow on real datasets |
-| 🔌 | **IoT System Builder** | Designed hardware-software integrated systems with Arduino |
-| 🎨 | **UI/UX Designer** | High-fidelity designs for mobile and web apps using Photoshop |
-| 💡 | **Cross-Domain Developer** | Builds across Android, Web, IoT, and Data Science simultaneously |
+|----|-------------|---------|
+| 📜 | **Design Thinking** | NPTEL Certification — 2024 |
+| 🔐 | **Cyber Security** | Novitech Certification — 2024 |
+| 🏭 | **Industrial IoT 4.0** | NPTEL Certification — 2025 |
+| 🕵️ | **Ethical Hacking** | NPTEL Certification — 2025 |
+| 🔍 | **Information Retrieval** | NPTEL Certification — 2026 |
+| 🌐 | **Social Networks** | NPTEL Certification — 2026 |
 
 </div>
 
@@ -193,6 +192,8 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 ### 🌐 Let's Connect
 
 <div align="center">
+
+*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications. Let's connect!*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhivakar%20AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-ai)
 [![Email](https://img.shields.io/badge/Gmail-dhivakarsenthil2005-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivakarsenthil2005@gmail.com)
