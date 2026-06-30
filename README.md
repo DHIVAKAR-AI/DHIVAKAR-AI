@@ -94,14 +94,17 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 <!-- WORK EXPERIENCE -->
 ### 💼 Work Experience
 
+<div align="left">
 <details>
 <summary>🏢 <b>Alfido Tech</b> — Data Analytics Intern &nbsp;|&nbsp; Apr 2025 – May 2025</summary>
 
 <br/>
 
+
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 > ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 > ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 - 📊 Analyzed real-world datasets to derive actionable business insights using Python and SQL
 - 📉 Built interactive Power BI dashboards for data-driven decision making
@@ -109,15 +112,21 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 - 🚀 Delivered analytical reports that improved data visibility across projects
 
 </details>
+</div>
 
+
+
+<div align="left">
 <details>
 <summary>🌐 <b>Skypark Itech, Coimbatore</b> — Web Development Intern &nbsp;|&nbsp; July 2025</summary>
 
 <br/>
 
+
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 - 💻 Developed responsive web pages and UI components for live client projects
 - 🎨 Applied UI/UX design principles for enhanced usability and interactivity
@@ -125,20 +134,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 - 🌍 Gained hands-on experience shipping code to a production environment
 
 </details>
-
----
-
-<!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|---|---|---|
-| 📱 **Android Mobile App** | Android Studio · Java · XML | Full-featured mobile app with custom UI/UX; smooth user flows and intuitive design |
-| 🌐 **Web Application** | HTML5 · CSS3 · JavaScript | Responsive web app with clean front-end design and modern practices |
-| 🔌 **IoT Smart System** | Arduino · Python · Sensors | End-to-end IoT device connected to a real-time software dashboard |
-
 </div>
 
 ---
@@ -171,20 +166,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 | HSC — Secondary Education | Green Garden Matric Hr. Sec. School, Erode | 2021–2023 | **74.6 %** |
 
 </div>
-
----
-
-<!-- CURRENTLY LEARNING -->
-### 🌱 Currently Levelling Up
-
-```
-🧠 Machine Learning      →  Supervised / Unsupervised, Neural Nets, TensorFlow
-📊 Data Analytics        →  Power BI Dashboards, EDA, Statistical Modelling
-🌍 Full-Stack Web Dev    →  JavaScript, Responsive Design, REST APIs
-🔌 IoT Engineering       →  Arduino, Sensor Fusion, Cloud Connectivity
-📱 Mobile Development    →  Advanced Android Studio, App Architecture
-🎨 UI/UX Design          →  Figma Prototyping, Design Systems, Accessibility
-```
 
 ---
 
