@@ -85,7 +85,7 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -100,17 +100,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 <br/>
 
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-- 📊 Analyzed real-world datasets to derive actionable business insights using Python and SQL
-- 📉 Built interactive Power BI dashboards for data-driven decision making
-- 🔍 Performed data cleaning, transformation, and exploratory data analysis (EDA)
-- 🚀 Delivered analytical reports that improved data visibility across projects
-
 </details>
 </div>
 
@@ -121,17 +110,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 <summary>🌐 <b>Skypark Itech, Coimbatore</b> — Web Development Intern &nbsp;|&nbsp; July 2025</summary>
 
 <br/>
-
-
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-- 💻 Developed responsive web pages and UI components for live client projects
-- 🎨 Applied UI/UX design principles for enhanced usability and interactivity
-- 🔧 Collaborated with the dev team to deliver front-end features and bug fixes
-- 🌍 Gained hands-on experience shipping code to a production environment
 
 </details>
 </div>
