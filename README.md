@@ -39,7 +39,7 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ### 🛠️ Tech Arsenal
 
-<p align="left">
+<p align="centre">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
@@ -54,6 +54,8 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
@@ -85,7 +87,7 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="60%" alt="Activity Graph"/>
 
 </div>
 
@@ -95,23 +97,17 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 ### 💼 Work Experience
 
 <div align="left">
-<details>
 <summary>🏢 <b>Alfido Tech</b> — Data Analytics Intern &nbsp;|&nbsp; Apr 2025 – May 2025</summary>
 
 <br/>
-
-</details>
 </div>
 
 
 
 <div align="left">
-<details>
 <summary>🌐 <b>Skypark Itech, Coimbatore</b> — Web Development Intern &nbsp;|&nbsp; July 2025</summary>
 
 <br/>
-
-</details>
 </div>
 
 ---
@@ -148,11 +144,11 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 ---
 
 <!-- CONNECT -->
-### 🌐 Let's Connect
+### 🌐 Let's Connect!
 
 <div align="center">
 
-*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications. Let's connect!*
+*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, and building impactful real-world applications*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhivakar%20AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-ai)
 [![Email](https://img.shields.io/badge/Gmail-dhivakarsenthil2005-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivakarsenthil2005@gmail.com)
