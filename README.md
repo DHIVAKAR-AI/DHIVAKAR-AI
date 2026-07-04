@@ -163,15 +163,8 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" width="60%"/>
 
 </div>
 
 ---
-
-<!-- FOOTER WAVE -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=130&amp;section=footer&amp;animation=twinkling" width="100%"/>
-
-*⭐ From [Dhivakar S](https://github.com/dhivakar-ai) — Built with 💙, powered by curiosity and lots of ☕*
-</div>
