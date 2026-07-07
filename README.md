@@ -82,17 +82,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="60%" alt="Activity Graph"/>
-
-</div>
-
----
-
 <!-- WORK EXPERIENCE -->
 ### 💼 Work Experience
 
