@@ -75,14 +75,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 ### 💼 Work Experience
 
 <div align="left">
-<summary>🏢 <b>Alfido Tech</b> — Data Analytics Intern &nbsp;|&nbsp; Apr 2025 – May 2025</summary>
-
-<br/>
-</div>
-
-
-
-<div align="left">
 <summary>🌐 <b>Skypark Itech, Coimbatore</b> — Web Development Intern &nbsp;|&nbsp; July 2025</summary>
 
 <br/>
