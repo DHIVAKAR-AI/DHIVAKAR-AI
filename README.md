@@ -90,24 +90,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ---
 
-<!-- ACHIEVEMENTS -->
-### 🎯 Achievements 
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|----|-------------|---------|
-| 📜 | **Design Thinking** | NPTEL Certification — 2024 |
-| 🔐 | **Cyber Security** | Novitech Certification — 2024 |
-| 🏭 | **Industrial IoT 4.0** | NPTEL Certification — 2025 |
-| 🕵️ | **Ethical Hacking** | NPTEL Certification — 2025 |
-| 🔍 | **Information Retrieval** | NPTEL Certification — 2026 |
-| 🌐 | **Social Networks** | NPTEL Certification — 2026 |
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
