@@ -71,17 +71,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ---
 
-<!-- STREAK STATS -->
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=dhivakar-ai&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <!-- WORK EXPERIENCE -->
 ### 💼 Work Experience
 
