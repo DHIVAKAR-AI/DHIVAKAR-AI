@@ -79,17 +79,6 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 ---
 
-<!-- WORK EXPERIENCE -->
-### 💼 Work Experience
-
-<div align="left">
-<summary>🌐 <b>Skypark Itech, Coimbatore</b> — Web Development Intern &nbsp;|&nbsp; July 2025</summary>
-
-<br/>
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
