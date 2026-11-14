@@ -69,6 +69,14 @@ Aspiring AI & Data Science student with strong analytical and problem-solving sk
 
 </p>
 
+
+---
+
+## 🐍 Snake Game
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 <!-- WORK EXPERIENCE -->
